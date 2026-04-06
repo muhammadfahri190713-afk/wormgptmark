@@ -1,7 +1,4 @@
-# run dengan baik dan benar jangan lupa baca readme.md
-
 #!/usr/bin/env node
-
 const { GoogleGenerativeAI } = require('@google/generative-ai');
 const readline = require('readline');
 const chalk = require('chalk');
