@@ -6,7 +6,7 @@ const chalk = require('chalk');
 // ========================================
 // KONFIGURASI
 // ========================================
-const API_KEY = 'AIzaSyANxCFrmBxM_eEisqqKFT_cQD7ZO1e4rF0';
+const API_KEY = 'Your apikey here';
 const PRIMARY_MODEL = 'gemini-2.5-flash';
 const FALLBACK_MODEL = 'gemini-2.5-flash-lite';
 
